@@ -1,3 +1,1 @@
-A tiny calculator module.
-def multiply(a, b):
-    return a * b
+VERSION = "2.0-beta"
